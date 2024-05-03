@@ -1,5 +1,37 @@
-<html>
-  <body>
-    <div>hello world</div>
-  </body>  
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./index.css" />
+</head>
+
+<body>
+  <div class="body">
+    <a href="http://" ></a>
+  </div>
+  <script>
+    function fetchAppList() {
+      return fetch('appList.json').then(response => response.json())
+    }
+
+    fetchAppList().then(list => {
+      const container = document.querySelector('.body')
+
+      function createImage(item) {
+        return `<a class="image-wrapper" href="${item.url}" name="${item.label}">
+  <img class="image" src="${item.icon}" />  
+  <span class="image-label">${item.label}</span>
+</a>`
+      }
+
+      container.innerHTML = list.map(item => createImage(item)).join('')
+    })
+
+  </script>
+</body>
+
 </html>

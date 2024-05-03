@@ -1,0 +1,22 @@
+.body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image-wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
+
+.image-wrapper .image {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.image-wrapper .image-label {
+  margin-top: 10px;
+}

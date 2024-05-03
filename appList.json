@@ -1,0 +1,20 @@
+[
+  {
+    "key": "logo-frame",
+    "label": "logo边框",
+    "icon": "logo-frame/images/logo-icon.jpg",
+    "url": "logo-frame"
+  },
+  {
+    "key": "milai-frame",
+    "label": "milai边框",
+    "icon": "milai-frame/images/logo-icon.jpg",
+    "url": "milai-frame"
+  },
+  {
+    "key": "time-slice",
+    "label": "时光拼图",
+    "icon": "time-slice/images/logo-icon.jpg",
+    "url": "time-slice"
+  }
+]

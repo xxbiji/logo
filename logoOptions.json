@@ -1,0 +1,287 @@
+[
+  {
+    "key": "fujifilm",
+    "label": "富士",
+    "url": "images/logo/Fujifilm_logo_logotype.png"
+  },
+  {
+    "key": "fuji-green",
+    "label": "富士（绿色）",
+    "url": "images/logo/fuji-green.jpg"
+  },
+  {
+    "key": "canon",
+    "label": "佳能",
+    "url": "images/logo/Canon_logo.png"
+  },
+  {
+    "key": "nikon",
+    "label": "尼康",
+    "url": "images/logo/nikon-logo.jpeg"
+  },
+  {
+    "key": "nikon corporation",
+    "label": "尼康（nikon）",
+    "url": "images/logo/Nikon-01.png"
+  },
+  {
+    "key": "sony",
+    "label": "索尼",
+    "url": "images/logo/sony-logo.png"
+  },
+  {
+    "key": "gmaster",
+    "label": "索尼GMaster",
+    "url": "images/logo/gmaster.png"
+  },
+  {
+    "key": "Sigma",
+    "label": "适马",
+    "url": "images/logo/sigma-logo.png"
+  },
+  {
+    "key": "leica",
+    "label": "徕卡",
+    "url": "images/logo/leica-logo.png"
+  },
+  {
+    "key": "panasonic",
+    "label": "松下",
+    "url": "images/logo/Panasonic_logo_logotype_blue.png"
+  },
+  {
+    "key": "lumix",
+    "label": "松下Lumix",
+    "url": "images/logo/lumix-logo.png"
+  },
+  {
+    "key": "olympus corporation",
+    "label": "奥林巴斯",
+    "url": "images/logo/olympus-logo.png"
+  },
+  {
+    "key": "OM-Digital-Solutions",
+    "label": "奥之心",
+    "url": "images/logo/OM-Digital-Solutions.png"
+  },
+  {
+    "key": "pentax",
+    "label": "宾得",
+    "url": "images/logo/pentax-logo.png"
+  },
+  {
+    "key": "ricoh",
+    "label": "理光",
+    "url": "images/logo/ricoh-logo.png"
+  },
+  {
+    "key": "tamron",
+    "label": "腾龙",
+    "url": "images/logo/tamron.png"
+  },
+  {
+    "key": "viltrox",
+    "label": "唯卓仕",
+    "url": "images/logo/viltrox.png"
+  },
+  {
+    "key": "viltrox-old",
+    "label": "唯卓仕（旧）",
+    "url": "images/logo/viltrox-old.png"
+  },
+  {
+    "key": "laowa",
+    "label": "老蛙",
+    "url": "images/logo/laowa.png"
+  },
+  {
+    "key": "7artisans",
+    "label": "七工匠",
+    "url": "images/logo/7artisans.png"
+  },
+  {
+    "key": "TTArtisan",
+    "label": "铭匠",
+    "url": "images/logo/TTArtisan.png"
+  },
+  {
+    "key": "SAMYANG",
+    "label": "森养",
+    "url": "images/logo/SAMYANG.png"
+  },
+  {
+    "key": "hasselblad",
+    "label": "哈苏",
+    "url": "images/logo/hasselblad-logo.png"
+  },
+  {
+    "key": "phase one",
+    "label": "飞思",
+    "url": "images/logo/phase-one.png"
+  },
+  {
+    "key": "zenza bronica",
+    "label": "勃朗尼卡",
+    "url": "images/logo/Logo-Zenza-Bronica.png"
+  },
+  {
+    "key": "mamiya",
+    "label": "玛米亚",
+    "url": "images/logo/mamiya-logo.png"
+  },
+  {
+    "key": "rollei",
+    "label": "禄莱",
+    "url": "images/logo/rollei-logo.png"
+  },
+  {
+    "key": "voigtlander",
+    "label": "福伦达",
+    "url": "images/logo/Voigtlander-logo.png"
+  },
+  {
+    "key": "konica",
+    "label": "柯尼卡",
+    "url": "images/logo/Konica.png"
+  },
+  {
+    "key": "minolta",
+    "label": "美能达",
+    "url": "images/logo/minolta-logo.png"
+  },
+  {
+    "key": "yashica",
+    "label": "雅西卡",
+    "url": "images/logo/yashica.png"
+  },
+  {
+    "key": "haiou",
+    "label": "海鸥",
+    "url": "images/logo/haiou.png"
+  },
+  {
+    "key": "zeiss",
+    "label": "蔡司",
+    "url": "images/logo/zeiss-logo.png"
+  },
+  {
+    "key": "casio",
+    "label": "卡西欧",
+    "url": "images/logo/casio-logo.png"
+  },
+  {
+    "key": "linhof",
+    "label": "林哈夫",
+    "url": "images/logo/linhof-logo.png"
+  },
+  {
+    "key": "sinar",
+    "label": "仙娜",
+    "url": "images/logo/sinar-logo.png"
+  },
+  {
+    "key": "alpa",
+    "label": "alpa",
+    "url": "images/logo/alpa.png"
+  },
+  {
+    "key": "fama",
+    "label": "福马",
+    "url": "images/logo/fama.png"
+  },
+  {
+    "key": "lucky",
+    "label": "乐凯",
+    "url": "images/logo/lucky.png"
+  },
+  {
+    "key": "kodak",
+    "label": "柯达",
+    "url": "images/logo/kodak.png"
+  },
+  {
+    "key": "agfa",
+    "label": "爱克发",
+    "url": "images/logo/agfa-logo.png"
+  },
+  {
+    "key": "ilford",
+    "label": "伊尔福",
+    "url": "images/logo/ilford.png"
+  },
+  {
+    "key": "dji",
+    "label": "大疆",
+    "url": "images/logo/dji-logo.png"
+  },
+  {
+    "key": "Insta360",
+    "label": "Insta360",
+    "url": "images/logo/Insta360.png"
+  },
+  {
+    "key": "gopro",
+    "label": "GoPro",
+    "url": "images/logo/gopro-logo.png"
+  },
+  {
+    "key": "apple",
+    "label": "苹果",
+    "url": "images/logo/apple-logo.png"
+  },
+  {
+    "key": "xiaomi",
+    "label": "小米",
+    "url": "images/logo/xiaomi.png"
+  },
+  {
+    "key": "huawei",
+    "label": "华为",
+    "url": "images/logo/huawei.png"
+  },
+  {
+    "key": "xmage",
+    "label": "华为XMAGE",
+    "url": "images/logo/xmage.png"
+  },
+  {
+    "key": "honor",
+    "label": "荣耀",
+    "url": "images/logo/honor.png"
+  },
+  {
+    "key": "oppo",
+    "label": "oppo",
+    "url": "images/logo/oppo.png"
+  },
+  {
+    "key": "oneplus",
+    "label": "一加",
+    "url": "images/logo/oneplus.png"
+  },
+  {
+    "key": "vivo",
+    "label": "vivo",
+    "url": "images/logo/vivo.png"
+  },
+  {
+    "key": "meizu",
+    "label": "魅族",
+    "url": "images/logo/meizu.png"
+  },
+  {
+    "key": "nokia",
+    "label": "诺基亚",
+    "url": "images/logo/nokia-logo.png"
+  },
+  {
+    "key": "samsung",
+    "label": "三星",
+    "url": "images/logo/Samsung.png"
+  },
+  {
+    "key": "google",
+    "label": "谷歌地图",
+    "url": "images/logo/google-maps-logo.png"
+  }
+]
