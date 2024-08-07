@@ -1,0 +1,1 @@
+import{_ as a,F as t,G as n,H as s,Z as r,T as o}from"./index-5e65bc0a.js";const c={};function d(e,_){return t(),n(o,{name:"fade"},{default:s(()=>[r(e.$slots,"default",{},void 0,!0)]),_:3})}const i=a(c,[["render",d],["__scopeId","data-v-2306b970"]]);export{i as F};
