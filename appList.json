@@ -19,7 +19,7 @@
   },
   {
     "key": "exif-studio",
-    "label": "时光拼图",
+    "label": "exif工作台",
     "icon": "exif-studio/bgLogo.svg",
     "url": "exif-studio"
   }
