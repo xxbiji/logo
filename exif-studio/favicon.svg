@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #126eaf;
+      }
+
+      .cls-2 {
+        fill: #41c5fe;
+      }
+
+      .cls-3 {
+        fill: #6edcff;
+      }
+    </style>
+  </defs>
+  <g id="_背景" data-name="背景">
+    <rect id="_下" data-name="下" class="cls-1" y="256" width="600" height="144"/>
+    <rect id="_中" data-name="中" class="cls-2" x="0" y="160" width="600" height="96"/>
+    <rect id="_上" data-name="上" class="cls-3" x="0" width="600" height="160"/>
+  </g>
+  <g id="_图层_4" data-name="图层 4">
+    <polyline class="cls-1" points="600 400 600 256 516.9 256 600 400 600 256"/>
+    <polygon class="cls-2" points="553.83 0 600 0 600 160 461.5 160 553.83 0"/>
+    <polygon class="cls-3" points="600 160 600 256 516.9 256 461.5 160 600 160"/>
+    <polygon class="cls-1" points="406.1 256 516.9 256 461.5 160 406.1 256"/>
+    <polygon class="cls-2" points="323 400 406.1 256 516.9 256 600 400 323 400"/>
+  </g>
+</svg>

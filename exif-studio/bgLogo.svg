@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b4e0ff;
+      }
+
+      .cls-2 {
+        fill: #c5c5c5;
+      }
+
+      .cls-3 {
+        fill: #126eaf;
+      }
+
+      .cls-4 {
+        fill: #41c5fe;
+      }
+
+      .cls-5 {
+        fill: #6edcff;
+      }
+    </style>
+  </defs>
+  <g id="_背景" data-name="背景">
+    <rect class="cls-2" width="1000" height="1000"/>
+    <rect id="_下" data-name="下" class="cls-3" x="200" y="556" width="600" height="144"/>
+    <rect id="_中" data-name="中" class="cls-4" x="200" y="460" width="600" height="96"/>
+    <rect id="_上" data-name="上" class="cls-5" x="200" y="300" width="600" height="160"/>
+  </g>
+  <g id="_图层_4" data-name="图层 4">
+    <polygon class="cls-4" points="753.83 300 800 300 800 460 661.5 460 753.83 300"/>
+    <polygon class="cls-1" points="661.5 460 800 700 523 700 661.5 460"/>
+    <polygon class="cls-3" points="800 700 800 556 716.9 556 800 700"/>
+    <polygon class="cls-5" points="800 460 800 556 716.9 556 661.5 460 800 460"/>
+    <polygon class="cls-3" points="606.1 556 716.9 556 661.5 460 606.1 556"/>
+    <polygon class="cls-5" points="523 700 606.1 556 716.9 556 800 700 523 700"/>
+  </g>
+</svg>
